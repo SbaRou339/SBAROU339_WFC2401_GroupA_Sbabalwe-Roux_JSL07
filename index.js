@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
             <h3>${courseName}</h3>
             <p>with legendary perseverance and world-class bad-assery for never giving up</p>
             <img src="path/to/your/logo.png" alt="School Logo" style="width: 200px; height: auto;">
-            <p>I am thee greatest</p>
+            <p>${personalMessage}</p>
         `;
     
         //  Display the modal
